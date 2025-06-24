@@ -1,5 +1,4 @@
 # APPLICATION ID : 1233063611992244305
-# PUBLIC KEY : e4451d06e1a8a4251742e2bf5b706df06b57702eb0be35c996451c170c53264e
 import discord
 import os
 import openai
